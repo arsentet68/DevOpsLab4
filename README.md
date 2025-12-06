@@ -28,6 +28,9 @@ touch inventory.ini
 
 ## Запуск плейбука
 Запустим плейбук и увидим что он выполнился успешно
+
 <img width="1276" height="261" alt="image" src="https://github.com/user-attachments/assets/e66a19bd-e1a0-4b8d-a51e-a3c91ada084e" />
+
 Проверим результат в браузере на хостовой машине
+
 <img width="537" height="158" alt="image" src="https://github.com/user-attachments/assets/d27d90bd-64d3-4901-aba4-f9fa2521ed75" />
